@@ -12,3 +12,5 @@ The example shows how to:
 * Add a table
 * Add data
 * Retrieve and display data
+
+Added some information to pull down locally.
